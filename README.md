@@ -25,7 +25,7 @@ This project analyzes coffee sales across multiple products, countries, and cust
 - **Timelines** for date-based sales tracking  
 - **KPIs** showing top-performing products, top customers, and country-wise sales  
 
-![Dashboard Screenshot](images/dashboard_overview.png)  
+
 
 ## Key Insights
 - Identified top-selling products and countries  
@@ -33,4 +33,4 @@ This project analyzes coffee sales across multiple products, countries, and cust
 - Enabled quick comparison of sales trends over time  
 - Provided clear metrics to support strategic business decisions  
 
-## Repository Contents
+
